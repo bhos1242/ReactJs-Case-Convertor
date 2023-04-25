@@ -1,3 +1,8 @@
+React Js is a JavaScript library used to create user interfaces. It is often used in web applications, but it can be used in other situations as well.
+
+In this case, we will use it to create a simple case converter that allows us to convert a string into all uppercase or lowercase letters. We are going to use the React Js library because it has great API's and simplifies the process of creating user interfaces.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
